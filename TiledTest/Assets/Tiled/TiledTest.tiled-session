@@ -1,0 +1,42 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "TestMap.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "TestMap.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 191.75,
+                "y": 96
+            }
+        },
+        "TiledTest.tsx": {
+            "scaleInDock": 5.5,
+            "scaleInEditor": 11
+        }
+    },
+    "last.imagePath": "D:/Unity/Project/TiledTest/Assets/Art",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "TestMap.tmx",
+        "TiledTest.tsx"
+    ],
+    "project": "TiledTest.tiled-project",
+    "property.type": "float",
+    "recentFiles": [
+        "TiledTest.tsx",
+        "TestMap.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
